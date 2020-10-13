@@ -1,0 +1,73 @@
+
+
+body{
+    background-color: sienna;
+
+}
+h1{
+    color: black;
+    text-align: center;
+
+}
+h2{
+    color: black;
+    text-align: center;
+
+
+}
+a{
+    color: black;
+}
+p{
+    color: black;
+    text-align: center;
+}
+
+div.form
+{
+    width: 35%;
+    height: 280px;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 40px;
+}
+div.leftview{
+    width: 30%;
+    height: 70%;
+    float: left;
+
+
+}
+
+div.rightview{
+    float: right;
+    width: 70%;
+    height: 70%;
+
+}
+
+div.FormButtons{
+    float: bottom;
+    width: auto;
+    height: 30%;
+    text-align: center;
+}
+
+form
+{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+
